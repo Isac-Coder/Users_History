@@ -1,4 +1,4 @@
-# Importamos las funciones del módulo de servicios
+# Importamos las funciones del módulo de servicios y le agregamos un alias
 import funtions.servicios as srv
 import funtions.archivos as arch
 from funtions.extras import *
